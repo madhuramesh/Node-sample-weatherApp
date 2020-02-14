@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="java" type="HTML" />
+      <mapping pattern="scriptingNode" type="PLAIN_TEXT" />
+      <mapping pattern="Difficulty" type="PLAIN_TEXT" />
+      <mapping pattern="scriptingNode.js" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
